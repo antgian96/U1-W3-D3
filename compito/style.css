@@ -1,0 +1,18 @@
+header {text-align: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;background-color: rgb(243, 243, 73); padding: 0.4em; border-radius: 10em;; }
+input {background-color: rgb(243, 235, 235); border-radius: 7em;}
+.addBtn {
+    padding: 10px;
+    width: 25%;
+    background: #4d1919;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 10em;}
+ul {text-align: center; list-style-position: inside; background-color: aqua; border-radius: 10em;}
+ul li.checked {
+    
+    text-decoration: line-through;
+       
+  }
